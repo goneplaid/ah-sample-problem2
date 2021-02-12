@@ -1,0 +1,11 @@
+{
+  "name": "hhbuilder",
+  "version": "1.0.0",
+  "description": "Your application needs a way to capture information about a household applying for health insurance coverage. Develop a UI for building a household up from individual people.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
